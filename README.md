@@ -1,1 +1,23 @@
 # warehouse-project
+
+---------------------------
+
+This is the **Warehouse Project** that I am doing as a part of the DCI Python Course.
+
+I will periodically update this project, completing tasks and implementing expected features.
+
+Here are some of the potential upcoming features:
+
+- A user system with roles and permissions for listing and placing orders.
+- Maintain the stock of a warehouse.
+- Order items from the warehouse.
+- Log actions from users.
+- Reporting.
+
+---------------------------
+
+Project author: [Link](https://github.com/lon-b)
+
+---------------------------
+
+License: NYI
