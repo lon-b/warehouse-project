@@ -20,4 +20,4 @@ Project author: [Link](https://github.com/lon-b)
 
 ---------------------------
 
-License: NYI
+License: [Link](https://github.com/lon-b/warehouse-project/tree/main/LICENSE.txt)
