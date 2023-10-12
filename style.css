@@ -1,6 +1,6 @@
 @font-face {
     font-family: Poppins;
-    src: url(./fonts/Poppins-Regular.ttf);
+    src: url(./font/Poppins-Regular.ttf);
 }
 
 body {
@@ -27,12 +27,15 @@ header {
     z-index: 100;
 }
 
-.navbar {
+/* .navbar {
     display: flex;
     align-items: center;
-}
+} */
+
 
 .navbar-left {
+    display: flex;
+    align-items: center;
     margin-right: 10px;
 }
 
@@ -55,14 +58,12 @@ header {
 
 .navbaricon {
     width: 45px;
+    margin-right: 10px;
+    margin-left: 5px;
 }
 
-.welcome-section,
-.aboutme-section,
-.contact-section,
-.gvdabout-section,
-.discord-section,
-.guilded-section {
+
+.welcome-section    {
     background-color: rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
@@ -72,6 +73,25 @@ header {
     padding: 20px;
     margin-bottom: 20px;
 }
+
+
+.welcome-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#welcome {
+    align-items: center;
+    text-align: center;
+}
+
+
+.frontpagepic {
+    display: block;
+    margin: 0 auto;
+}
+
 
 .discord-logo,
 .guilded-logo   {

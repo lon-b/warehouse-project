@@ -21,3 +21,7 @@ Project author: [Link](https://github.com/lon-b)
 ---------------------------
 
 License: [Link](https://github.com/lon-b/warehouse-project/tree/main/LICENSE.txt)
+
+---------------------------
+
+I'm developing this in VS Code in a virtual environment.
