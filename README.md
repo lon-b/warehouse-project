@@ -24,4 +24,4 @@ License: [Link](https://github.com/lon-b/warehouse-project/tree/main/LICENSE.txt
 
 ---------------------------
 
-I'm developing this in VS Code in a virtual environment.
+I'm developing this in VS Code in a virtual environment using Python (3.10.12).
