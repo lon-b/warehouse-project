@@ -7,15 +7,23 @@ for item in warehouse1:
     # The `item` name will contain each of the strings (item names) in the list.
 """
 
-from cli.data import warehouse1, warehouse2
+from data import warehouse1, warehouse2
 
 # YOUR CODE STARTS HERE
 
 # Get the user name
+username = input("What is your user name? ")
 
 # Greet the user
+print(f"Hello, {username}!")
+
 
 # Show the menu and ask to pick a choice
+print("What would you like to do?")
+
+options = ["List items by warehouse", "Search an item and place an order", "Quit"]
+print(f"{options}")
+
 
 # If they pick 1
 #
